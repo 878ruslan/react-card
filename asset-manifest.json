@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-card/static/css/main.9f1be610.css",
+    "main.js": "/react-card/static/js/main.4396b015.js",
+    "static/js/787.a74095cd.chunk.js": "/react-card/static/js/787.a74095cd.chunk.js",
+    "static/media/picture.png": "/react-card/static/media/picture.7c37bdc6635ee526957b.png",
+    "index.html": "/react-card/index.html",
+    "main.9f1be610.css.map": "/react-card/static/css/main.9f1be610.css.map",
+    "main.4396b015.js.map": "/react-card/static/js/main.4396b015.js.map",
+    "787.a74095cd.chunk.js.map": "/react-card/static/js/787.a74095cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f1be610.css",
+    "static/js/main.4396b015.js"
+  ]
+}
